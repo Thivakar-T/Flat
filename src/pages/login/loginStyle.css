@@ -1,0 +1,13 @@
+.btn-primary {
+  background-color: #183153 !important;
+}
+
+.btn-primary:active,
+.btn-primary:hover {
+  opacity: 0.9;
+  transform: 0.3s;
+}
+
+.text-primary {
+  color: #183153 !important;
+}
